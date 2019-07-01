@@ -1,0 +1,11 @@
+C:\Users\ksagar\OneDrive - Microsoft\Desktop\dev\GroupAnagrams\bin\Debug\netcoreapp2.2\GroupAnagrams.deps.json
+C:\Users\ksagar\OneDrive - Microsoft\Desktop\dev\GroupAnagrams\bin\Debug\netcoreapp2.2\GroupAnagrams.runtimeconfig.json
+C:\Users\ksagar\OneDrive - Microsoft\Desktop\dev\GroupAnagrams\bin\Debug\netcoreapp2.2\GroupAnagrams.runtimeconfig.dev.json
+c:\Users\ksagar\OneDrive - Microsoft\Desktop\dev\GroupAnagrams\bin\Debug\netcoreapp2.2\GroupAnagrams.dll
+c:\Users\ksagar\OneDrive - Microsoft\Desktop\dev\GroupAnagrams\bin\Debug\netcoreapp2.2\GroupAnagrams.pdb
+c:\Users\ksagar\OneDrive - Microsoft\Desktop\dev\GroupAnagrams\obj\Debug\netcoreapp2.2\GroupAnagrams.csprojAssemblyReference.cache
+c:\Users\ksagar\OneDrive - Microsoft\Desktop\dev\GroupAnagrams\obj\Debug\netcoreapp2.2\GroupAnagrams.csproj.CoreCompileInputs.cache
+c:\Users\ksagar\OneDrive - Microsoft\Desktop\dev\GroupAnagrams\obj\Debug\netcoreapp2.2\GroupAnagrams.AssemblyInfoInputs.cache
+c:\Users\ksagar\OneDrive - Microsoft\Desktop\dev\GroupAnagrams\obj\Debug\netcoreapp2.2\GroupAnagrams.AssemblyInfo.cs
+c:\Users\ksagar\OneDrive - Microsoft\Desktop\dev\GroupAnagrams\obj\Debug\netcoreapp2.2\GroupAnagrams.dll
+c:\Users\ksagar\OneDrive - Microsoft\Desktop\dev\GroupAnagrams\obj\Debug\netcoreapp2.2\GroupAnagrams.pdb

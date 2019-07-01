@@ -1,0 +1,11 @@
+C:\Users\ksagar\OneDrive - Microsoft\Desktop\dev\leetcode\bin\Debug\netcoreapp2.2\leetcode.deps.json
+C:\Users\ksagar\OneDrive - Microsoft\Desktop\dev\leetcode\bin\Debug\netcoreapp2.2\leetcode.runtimeconfig.json
+C:\Users\ksagar\OneDrive - Microsoft\Desktop\dev\leetcode\bin\Debug\netcoreapp2.2\leetcode.runtimeconfig.dev.json
+c:\Users\ksagar\OneDrive - Microsoft\Desktop\dev\leetcode\bin\Debug\netcoreapp2.2\leetcode.dll
+c:\Users\ksagar\OneDrive - Microsoft\Desktop\dev\leetcode\bin\Debug\netcoreapp2.2\leetcode.pdb
+c:\Users\ksagar\OneDrive - Microsoft\Desktop\dev\leetcode\obj\Debug\netcoreapp2.2\leetcode.csprojAssemblyReference.cache
+c:\Users\ksagar\OneDrive - Microsoft\Desktop\dev\leetcode\obj\Debug\netcoreapp2.2\leetcode.csproj.CoreCompileInputs.cache
+c:\Users\ksagar\OneDrive - Microsoft\Desktop\dev\leetcode\obj\Debug\netcoreapp2.2\leetcode.AssemblyInfoInputs.cache
+c:\Users\ksagar\OneDrive - Microsoft\Desktop\dev\leetcode\obj\Debug\netcoreapp2.2\leetcode.AssemblyInfo.cs
+c:\Users\ksagar\OneDrive - Microsoft\Desktop\dev\leetcode\obj\Debug\netcoreapp2.2\leetcode.dll
+c:\Users\ksagar\OneDrive - Microsoft\Desktop\dev\leetcode\obj\Debug\netcoreapp2.2\leetcode.pdb
